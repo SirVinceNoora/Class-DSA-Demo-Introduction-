@@ -1,0 +1,15 @@
+V:\test\DSA_Demos\bin\Debug\net8.0\DSA_Demos.exe
+V:\test\DSA_Demos\bin\Debug\net8.0\DSA_Demos.deps.json
+V:\test\DSA_Demos\bin\Debug\net8.0\DSA_Demos.runtimeconfig.json
+V:\test\DSA_Demos\bin\Debug\net8.0\DSA_Demos.dll
+V:\test\DSA_Demos\bin\Debug\net8.0\DSA_Demos.pdb
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.GeneratedMSBuildEditorConfig.editorconfig
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.AssemblyInfoInputs.cache
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.AssemblyInfo.cs
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.csproj.CoreCompileInputs.cache
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.dll
+V:\test\DSA_Demos\obj\Debug\net8.0\refint\DSA_Demos.dll
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.pdb
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.genruntimeconfig.cache
+V:\test\DSA_Demos\obj\Debug\net8.0\ref\DSA_Demos.dll
+V:\test\DSA_Demos\obj\Debug\net8.0\DSA_Demos.sourcelink.json
