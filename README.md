@@ -1,6 +1,6 @@
 # 🚀 Data Structures & Algorithms (DSA)
 
-![DSA Banner](https://user-images.githubusercontent.com/your-username/banner.gif)
+![DSA Banner](https://user-images.githubusercontent.com/SirVinceNoora/banner.gif)
 
 Welcome to the **Data Structures & Algorithms (DSA)** repository 🎓.  
 This is your companion for learning, coding, and practicing essential DSA concepts.  
@@ -34,7 +34,7 @@ This is your companion for learning, coding, and practicing essential DSA concep
 
 ## 🖥️ How to Run the Code  
 
-### Run in C#
+### Run Locally in C#
 ```bash
 # compile & run
 dotnet run
