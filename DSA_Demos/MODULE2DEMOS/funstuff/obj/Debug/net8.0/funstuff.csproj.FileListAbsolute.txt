@@ -1,0 +1,15 @@
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\bin\Debug\net8.0\funstuff.exe
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\bin\Debug\net8.0\funstuff.deps.json
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\bin\Debug\net8.0\funstuff.runtimeconfig.json
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\bin\Debug\net8.0\funstuff.dll
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\bin\Debug\net8.0\funstuff.pdb
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.GeneratedMSBuildEditorConfig.editorconfig
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.AssemblyInfoInputs.cache
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.AssemblyInfo.cs
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.csproj.CoreCompileInputs.cache
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.sourcelink.json
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.dll
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\refint\funstuff.dll
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.pdb
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\funstuff.genruntimeconfig.cache
+V:\test\DSA_Demos\MODULE2DEMOS\funstuff\obj\Debug\net8.0\ref\funstuff.dll
