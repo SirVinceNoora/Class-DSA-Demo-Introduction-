@@ -13,7 +13,7 @@ This is your companion for learning, coding, and practicing essential DSA concep
 |--------|--------|--------|
 | **1** | Introduction & Big O Notation | ✅ Complete |
 | **2** | Arrays & Strings | ✅ Complete |
-| **3** | Linked Lists | 🔜 Coming Soon |
+| **3** | Linked Lists | ✅ Complete |
 | **4** | Stacks & Queues | 🔜 Coming Soon |
 | **5** | Trees | 🔜 Coming Soon |
 | **6** | Graphs | 🔜 Coming Soon |
