@@ -1,4 +1,4 @@
-# 🚀 Data Structures & Algorithms (DSA)
+#  Data Structures & Algorithms (DSA)
 
 ![DSA Banner](https://user-images.githubusercontent.com/SirVinceNoora/banner.gif)
 
