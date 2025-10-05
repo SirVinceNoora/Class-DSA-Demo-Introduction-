@@ -4,7 +4,8 @@
 
 Welcome to the **Data Structures & Algorithms (DSA)** repository 🎓.  
 This is your companion for learning, coding, and practicing essential DSA concepts.  
-(assets/noname.png)  
+
+![Graph Example](assets/noname.png)  
 
 ---
 
@@ -15,9 +16,9 @@ This is your companion for learning, coding, and practicing essential DSA concep
 | **1** | Introduction & Big O Notation | ✅ Complete |
 | **2** | Arrays & Strings | ✅ Complete |
 | **3** | Linked Lists (merged to M3) | ✅ Complete |
-| **4** | Stacks & Queues(merged to  M3 |✅ Complete |
-| **5** | Trees |✅ Complete |
-| **6** | Graphs |✅ Complete |
+| **4** | Stacks & Queues (merged to M3) | ✅ Complete |
+| **5** | Trees | ✅ Complete |
+| **6** | Graphs | ✅ Complete |
 | **7** | Searching & Sorting | 🔜 Coming Soon |
 | **8** | Hashing & Advanced Topics | 🔜 Coming Soon |
 | **9** | Case Studies & Projects | 🔜 Coming Soon |
