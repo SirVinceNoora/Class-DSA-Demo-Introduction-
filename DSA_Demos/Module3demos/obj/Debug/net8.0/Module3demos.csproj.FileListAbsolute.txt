@@ -1,0 +1,15 @@
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.GeneratedMSBuildEditorConfig.editorconfig
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.AssemblyInfoInputs.cache
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.AssemblyInfo.cs
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.csproj.CoreCompileInputs.cache
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.sourcelink.json
+V:\test\Module3demos\bin\Debug\net8.0\Module3demos.exe
+V:\test\Module3demos\bin\Debug\net8.0\Module3demos.deps.json
+V:\test\Module3demos\bin\Debug\net8.0\Module3demos.runtimeconfig.json
+V:\test\Module3demos\bin\Debug\net8.0\Module3demos.dll
+V:\test\Module3demos\bin\Debug\net8.0\Module3demos.pdb
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.dll
+V:\test\Module3demos\obj\Debug\net8.0\refint\Module3demos.dll
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.pdb
+V:\test\Module3demos\obj\Debug\net8.0\Module3demos.genruntimeconfig.cache
+V:\test\Module3demos\obj\Debug\net8.0\ref\Module3demos.dll

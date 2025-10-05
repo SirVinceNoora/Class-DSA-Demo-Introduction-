@@ -1,0 +1,15 @@
+V:\test\MODULE4DEMOS\bin\Debug\net8.0\MODULE4DEMOS.exe
+V:\test\MODULE4DEMOS\bin\Debug\net8.0\MODULE4DEMOS.deps.json
+V:\test\MODULE4DEMOS\bin\Debug\net8.0\MODULE4DEMOS.runtimeconfig.json
+V:\test\MODULE4DEMOS\bin\Debug\net8.0\MODULE4DEMOS.dll
+V:\test\MODULE4DEMOS\bin\Debug\net8.0\MODULE4DEMOS.pdb
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.GeneratedMSBuildEditorConfig.editorconfig
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.AssemblyInfoInputs.cache
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.AssemblyInfo.cs
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.csproj.CoreCompileInputs.cache
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.sourcelink.json
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.dll
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\refint\MODULE4DEMOS.dll
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.pdb
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\MODULE4DEMOS.genruntimeconfig.cache
+V:\test\MODULE4DEMOS\obj\Debug\net8.0\ref\MODULE4DEMOS.dll
