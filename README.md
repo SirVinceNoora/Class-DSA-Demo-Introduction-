@@ -15,8 +15,8 @@ This is your companion for learning, coding, and practicing essential DSA concep
 | **2** | Arrays & Strings | ✅ Complete |
 | **3** | Linked Lists (merged to M3) | ✅ Complete |
 | **4** | Stacks & Queues(merged to  M3 |✅ Complete |
-| **5** | Trees | 🔜 Coming Soon |
-| **6** | Graphs | 🔜 Coming Soon |
+| **5** | Trees |✅ Complete |
+| **6** | Graphs |✅ Complete |
 | **7** | Searching & Sorting | 🔜 Coming Soon |
 | **8** | Hashing & Advanced Topics | 🔜 Coming Soon |
 | **9** | Case Studies & Projects | 🔜 Coming Soon |
