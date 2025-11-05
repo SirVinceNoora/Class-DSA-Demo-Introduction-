@@ -19,7 +19,7 @@ This is your companion for learning, coding, and practicing essential DSA concep
 | **4** | Stacks & Queues (merged to M3) | ✅ Complete |
 | **5** | Trees | ✅ Complete |
 | **6** | Graphs | ✅ Complete |
-| **7** | Searching & Sorting | 🔜 Coming Soon |
+| **7** | Searching & Sorting | ✅ Complete |
 | **8** | Hashing & Advanced Topics | 🔜 Coming Soon |
 | **9** | Case Studies & Projects | 🔜 Coming Soon |
 
