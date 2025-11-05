@@ -1,0 +1,15 @@
+V:\test\MODULE5DEMOS\bin\Debug\net8.0\MODULE5DEMOS.exe
+V:\test\MODULE5DEMOS\bin\Debug\net8.0\MODULE5DEMOS.deps.json
+V:\test\MODULE5DEMOS\bin\Debug\net8.0\MODULE5DEMOS.runtimeconfig.json
+V:\test\MODULE5DEMOS\bin\Debug\net8.0\MODULE5DEMOS.dll
+V:\test\MODULE5DEMOS\bin\Debug\net8.0\MODULE5DEMOS.pdb
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.GeneratedMSBuildEditorConfig.editorconfig
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.AssemblyInfoInputs.cache
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.AssemblyInfo.cs
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.csproj.CoreCompileInputs.cache
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.sourcelink.json
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.dll
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\refint\MODULE5DEMOS.dll
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.pdb
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\MODULE5DEMOS.genruntimeconfig.cache
+V:\test\MODULE5DEMOS\obj\Debug\net8.0\ref\MODULE5DEMOS.dll
